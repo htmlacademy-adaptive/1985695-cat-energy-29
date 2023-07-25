@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Александр Милюшкин](https://up.htmlacademy.ru/adaptive/29/user/1985695).
-* Наставник: `Неизвестно`.
+- Студент: [Александр Милюшкин](https://up.htmlacademy.ru/adaptive/29/user/1985695).
+- Наставник: [Кенан Агаев](https://up.htmlacademy.ru/adaptive/29/user/1064275).
 
 ---
 
